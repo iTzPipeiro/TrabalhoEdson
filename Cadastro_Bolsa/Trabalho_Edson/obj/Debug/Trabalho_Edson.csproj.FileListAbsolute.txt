@@ -1,1 +1,9 @@
 D:\Projetos\Repositórios\Projetos\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\bin\Debug\Trabalho_Edson.exe.config
+D:\Projetos\Repositórios\Projetos\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\bin\Debug\Trabalho_Edson.exe
+D:\Projetos\Repositórios\Projetos\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\bin\Debug\Trabalho_Edson.pdb
+D:\Projetos\Repositórios\Projetos\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\obj\Debug\Trabalho_Edson.csprojResolveAssemblyReference.cache
+D:\Projetos\Repositórios\Projetos\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\obj\Debug\Trabalho_Edson.frmLogin.resources
+D:\Projetos\Repositórios\Projetos\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\obj\Debug\Trabalho_Edson.Properties.Resources.resources
+D:\Projetos\Repositórios\Projetos\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\obj\Debug\Trabalho_Edson.csproj.GenerateResource.Cache
+D:\Projetos\Repositórios\Projetos\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\obj\Debug\Trabalho_Edson.exe
+D:\Projetos\Repositórios\Projetos\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\obj\Debug\Trabalho_Edson.pdb

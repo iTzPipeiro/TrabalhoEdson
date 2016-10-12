@@ -16,5 +16,18 @@ namespace Trabalho_Edson
         {
             InitializeComponent();
         }
+
+        private void btnEntrar_Click(object sender, EventArgs e)
+        {
+            if (txtUsuario.Text == "admin" && txtSenha.Text == "faceca")
+            {
+
+            }
+
+            else
+            {
+                MessageBox.Show("Usuário ou senha invalidos!", "Alerta!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
     }
 }
