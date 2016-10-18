@@ -21,13 +21,18 @@ namespace Trabalho_Edson
         {
             if (txtUsuario.Text == "admin" && txtSenha.Text == "faceca")
             {
-
+                MessageBox.Show("Conectado", "Login", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
 
             else
             {
                 MessageBox.Show("Usuário ou senha invalidos!", "Alerta!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
+        }
+
+        private void txtUsuario_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

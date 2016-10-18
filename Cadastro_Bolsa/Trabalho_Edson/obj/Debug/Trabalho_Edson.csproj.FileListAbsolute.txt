@@ -7,3 +7,12 @@ D:\Projetos\Repositórios\Projetos\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\o
 D:\Projetos\Repositórios\Projetos\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\obj\Debug\Trabalho_Edson.csproj.GenerateResource.Cache
 D:\Projetos\Repositórios\Projetos\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\obj\Debug\Trabalho_Edson.exe
 D:\Projetos\Repositórios\Projetos\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\obj\Debug\Trabalho_Edson.pdb
+D:\Disco Jonas\FACECA\Qualidade de Software\gitedson\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\bin\Debug\Trabalho_Edson.exe.config
+D:\Disco Jonas\FACECA\Qualidade de Software\gitedson\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\obj\Debug\Trabalho_Edson.exe
+D:\Disco Jonas\FACECA\Qualidade de Software\gitedson\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\obj\Debug\Trabalho_Edson.pdb
+D:\Disco Jonas\FACECA\Qualidade de Software\gitedson\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\bin\Debug\Trabalho_Edson.exe
+D:\Disco Jonas\FACECA\Qualidade de Software\gitedson\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\bin\Debug\Trabalho_Edson.pdb
+D:\Disco Jonas\FACECA\Qualidade de Software\gitedson\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\obj\Debug\Trabalho_Edson.csprojResolveAssemblyReference.cache
+D:\Disco Jonas\FACECA\Qualidade de Software\gitedson\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\obj\Debug\Trabalho_Edson.frmLogin.resources
+D:\Disco Jonas\FACECA\Qualidade de Software\gitedson\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\obj\Debug\Trabalho_Edson.Properties.Resources.resources
+D:\Disco Jonas\FACECA\Qualidade de Software\gitedson\TrabalhoEdson\Cadastro_Bolsa\Trabalho_Edson\obj\Debug\Trabalho_Edson.csproj.GenerateResource.Cache
